@@ -1,0 +1,2 @@
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\Definitions.TankS.h
+C:\Users\Cococomp\Documents\TankS\TankS\Source\TankS\TankS.h

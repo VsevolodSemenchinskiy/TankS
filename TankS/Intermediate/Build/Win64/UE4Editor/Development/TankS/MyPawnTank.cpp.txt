@@ -1,0 +1,11 @@
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\Definitions.TankS.h
+C:\Users\Cococomp\Documents\TankS\TankS\Source\TankS\MyPawnTank.h
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Inc\TankS\MyPawnTank.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h

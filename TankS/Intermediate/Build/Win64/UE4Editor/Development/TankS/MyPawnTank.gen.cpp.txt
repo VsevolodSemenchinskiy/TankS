@@ -1,0 +1,5 @@
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\Definitions.TankS.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cococomp\Documents\TankS\TankS\Source\TankS/MyPawnTank.h
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Inc\TankS\MyPawnTank.generated.h

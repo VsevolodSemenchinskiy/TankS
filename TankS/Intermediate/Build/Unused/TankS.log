@@ -1,0 +1,19 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Cococomp\Documents\TankS).
+  Parsing headers for TankSEditor
+    Running UnrealHeaderTool "C:\Users\Cococomp\Documents\TankS\TankS\TankS.uproject" "C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\TankSEditor\Development\TankSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Cococomp\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for TankSEditor in 21,4493123 seconds
+  Building TankSEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (D:\vs2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 16 processes...
+    [1/7] MyPawnTank.cpp
+    [2/7] MyTankrController.cpp
+    [3/7] MyPawnTank.gen.cpp
+    [4/7] MyTankrController.gen.cpp
+    [5/7] UE4Editor-TankS.lib
+       Creating library C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\UE4Editor-TankS.lib and object C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\UE4Editor-TankS.exp
+    [6/7] UE4Editor-TankS.dll
+       Creating library C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\UE4Editor-TankS.suppressed.lib and object C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\UE4Editor-TankS.suppressed.exp
+    [7/7] TankSEditor.target
+  Total time in Parallel executor: 20,90 seconds
+  Total execution time: 43,02 seconds

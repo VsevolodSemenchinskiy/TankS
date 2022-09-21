@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TankS",
+			"Path": "C:\\Users\\Cococomp\\Documents\\TankS\\TankS\\Source\\TankS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TankSEditor",
+			"Path": "C:\\Users\\Cococomp\\Documents\\TankS\\TankS\\Source\\TankSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

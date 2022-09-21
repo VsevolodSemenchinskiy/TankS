@@ -1,0 +1,5 @@
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Development\TankS\Definitions.TankS.h
+C:\Users\Cococomp\Documents\TankS\TankS\Source\TankS\MyTankrController.h
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Inc\TankS\MyTankrController.generated.h
+C:\Users\Cococomp\Documents\TankS\TankS\Source\TankS\MyPawnTank.h
+C:\Users\Cococomp\Documents\TankS\TankS\Intermediate\Build\Win64\UE4Editor\Inc\TankS\MyPawnTank.generated.h

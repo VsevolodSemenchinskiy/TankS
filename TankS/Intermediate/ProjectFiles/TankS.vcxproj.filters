@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TankS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AB91F896-C03A-449D-BB53-9BAD54D550D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TankS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TankSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{ECC5E84F-FD0F-4290-A0C2-399DFD5549DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{64BBF95D-8837-49AD-BBE1-D0AD7476A158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Android">
+      <UniqueIdentifier>{BF4B295F-C36F-44AE-8195-67B42A1EA787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Android\Config">
+      <UniqueIdentifier>{93BC5971-449C-4D30-99BA-ABF56D1BF193}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Android\Config\AndroidEngine.ini">
+      <Filter>Platforms\Android\Config</Filter>
+    </None>
+    <Filter Include="Platforms\IOS">
+      <UniqueIdentifier>{EC42B85A-095F-449F-8B41-28C44B87BD2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\IOS\Config">
+      <UniqueIdentifier>{68197701-85F2-46E7-9C93-A05E41CFF0DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\IOS\Config\IOSEngine.ini">
+      <Filter>Platforms\IOS\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Linux">
+      <UniqueIdentifier>{0AD72EE1-F82F-47D7-B222-5F44EBA769BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Linux\Config">
+      <UniqueIdentifier>{92A8C800-10ED-458D-AE3F-37D03F99207B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Linux\Config\LinuxEngine.ini">
+      <Filter>Platforms\Linux\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Mac">
+      <UniqueIdentifier>{7F4EB0F7-1AE3-421C-9F51-DF86D808FA05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Mac\Config">
+      <UniqueIdentifier>{CD133EA6-2B9E-41F1-8736-919841587148}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Mac\Config\MacEngine.ini">
+      <Filter>Platforms\Mac\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Windows">
+      <UniqueIdentifier>{BC0F3257-FE63-4EEC-B2C2-950EDE64E28C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Windows\Config">
+      <UniqueIdentifier>{1D372364-9E62-4017-8E71-087910C20607}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Windows\Config\WindowsEngine.ini">
+      <Filter>Platforms\Windows\Config</Filter>
+    </None>
+    <Filter Include="Source\TankS">
+      <UniqueIdentifier>{68F94FE3-98D9-42DE-B46F-E8556962DB13}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TankS\MyPawnTank.cpp">
+      <Filter>Source\TankS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankS\MyPawnTank.h">
+      <Filter>Source\TankS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TankS\MyTankrController.cpp">
+      <Filter>Source\TankS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankS\MyTankrController.h">
+      <Filter>Source\TankS</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TankS\TankS.Build.cs">
+      <Filter>Source\TankS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TankS\TankS.cpp">
+      <Filter>Source\TankS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankS\TankS.h">
+      <Filter>Source\TankS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TankS\TankSGameModeBase.cpp">
+      <Filter>Source\TankS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankS\TankSGameModeBase.h">
+      <Filter>Source\TankS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
